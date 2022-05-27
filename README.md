@@ -21,3 +21,6 @@ npm i
 ```
 npm run dev
 ```
+
+No navegador insira o endereço: 
+http://localhost:8080
