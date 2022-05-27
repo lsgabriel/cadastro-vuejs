@@ -1,19 +1,23 @@
-# projeto-cadastro
+# Projeto de Cadastro
 
-## Project setup
-```
-npm install
-```
+# Tecnologias Usadas 🚀
+## Vuejs
+## Bootstrap
+## Sass
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Iniciar o Projeto:
 
-### Compiles and minifies for production
+## 1- git clone
 ```
-npm run build
+git clone https://github.com/lsgabriel/cadastro-vuejs.git
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 2- instalar dependecias
+```
+npm i
+```
+
+## 3- Rodar o projeto
+```
+npm run dev
+```
